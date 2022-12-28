@@ -27,8 +27,7 @@ export default function Home() {
             <div className="mt-6 grid grid-cols-1 gap-3">
               <div>
                 <a
-                  href="https://github.com/sh4rkzy/"
-                  target={'_blank'}
+                  href="https://github.com/sh4rkzy/"                 
                   className="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-sky-200"
                 >
                   <SVGGit/>
@@ -38,8 +37,7 @@ export default function Home() {
 
               <div>
                 <a
-                  href="https://www.linkedin.com/in/kauecampos-/"
-                  target={'_blank'}
+                  href="https://www.linkedin.com/in/kauecampos-/"                  
                   className="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-sky-200"
                 >
                   <SVGLink/>
@@ -50,7 +48,6 @@ export default function Home() {
               <div>
                 <a
                   href="https://www.instagram.com/sh4rkzy__/"
-                  target={'_blank'}
                   className="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-sky-200"
                 >
                   <SVGEmail/>
@@ -59,8 +56,7 @@ export default function Home() {
               </div>
               <div>
                 <a
-                  href="https://www.instagram.com/sh4rkzy__/"
-                  target={'_blank'}
+                  href="https://www.instagram.com/sh4rkzy__/"                 
                   className="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-sky-200"
                 >
                   <SVGInsta />
