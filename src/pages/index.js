@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      <div className="min-h-screen flex flex-col justify-center py-12 sm:px-6 lg:px-8 bg-color">
+      <div className="min-h-screen flex flex-col justify-center py-12 sm:px-6 lg:px-8 bg-gray-900">
         <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
           <div className="text-center pb-2">
             <Avatar />
